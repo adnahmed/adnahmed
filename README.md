@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![Adnan Ahmed Khan's LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/adnahmed)
+[![Adnan Ahmed Khan's Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@adnaahm)
 ![](https://hit.yhype.me/github/profile?user_id=70430987)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/adnahmed/adnahmed/output/github-snake.svg)
