@@ -11,8 +11,8 @@
 
 <br>
 <div>
-<h2 align="center">View counter 👀</h2>
+<h2 align="center">Profile Views </h2>
 <div align="center">
 <img src="https://count.getloli.com/@adnahmed?theme=original-new" />
-  </div>
+</div>
 <br>
