@@ -1,8 +1,27 @@
-### Hi there 👋
-<p>Available for contract work or full time employment. Reach out to me on these channels</p>
+# Adnan Ahmed Khan 🚀
 
-[![Adnan Ahmed Khan's LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/adnahmed)
-[![Adnan Ahmed Khan's Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@adnaahm)
+**Senior Backend & Platform Engineer | Distributed Systems & Cloud Infrastructure**  
+Islamabad, Pakistan • Remote Friendly  
+[LinkedIn](https://linkedin.com/in/adnahmed) | [Email](mailto:khanadnanahmed01@gmail.com)
+
+
+### 🧰 Technical Ecosystem
+
+```text
+Languages     │ TypeScript, JavaScript, Python, Bash
+Backend       │ Node.js, Nest.js, FastAPI, Express, REST, Temporal Workflows
+Cloud/Infra   │ AWS (EKS, ECS, Lambda), Docker, Kubernetes, Terraform, Helm, ArgoCD
+Data/Crypto   │ Postgres, Redis, Kafka, Elasticsearch, MongoDB, DynamoDB
+Observability │ Prometheus, Grafana, Jaeger, Datadog, ELK Stack, Jest
+```
+
+---
+
+### 📬 Let's Connect
+I am available for contract positions, full-time remote roles, or technical consulting. 
+
+[![Adnan's LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/adnahmed) 
+[![Adnan's Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@adnaahm)
 ![](https://hit.yhype.me/github/profile?user_id=70430987)
 
 <!--
